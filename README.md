@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Rian! ✌️</h1>
 
-<!--
-**RianDEV19/RianDev19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas (ADS) focado em construir soluções eficientes para o back-end e criar automações que resolvem problemas reais.
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Minha Stack
+* 🐍 **Foco Principal:** Python (POO e Automação de processos)
+* ☕ **Backend:** Java & Spring Boot
+* 🗄️ **Banco de Dados:** SQLite
+* 🐧 **Ambiente:** Linux (Arch, Ubuntu) e WSL 2
+
+---
+
+## 🚀 Projetos em Destaque
+* **Gerador de Documentos Automático (Python):** Script orientado a objetos utilizando bibliotecas como ReportLab para geração dinâmica de PDFs.
+* **Sistema de Orçamentos (Java):** Aplicação desktop desenvolvida para estruturar e automatizar cálculos de orçamentos complexos.
+* **Vitrine de Links (Java + Web):** API back-end hospedada no Render consumida por um front-end no GitHub Pages para gerenciamento e centralização de links.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Rian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB_AQUI&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas pelo Rian"/>
+</div>
+
+---
+
+## 📫 Como me encontrar
+* 💼 **LinkedIn:** https://www.linkedin.com/in/rian-nunes-724408300/
+* ✉️ **E-mail:** Riannunis222@gmail.com
+
+
