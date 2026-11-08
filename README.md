@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 📍 Sou de Carmópolis, Sergipe.
+
 - 🎯 Meu foco principal de desenvolvimento é **Python**, criando desde automações até lógica de backend.
 - 💻 Tenho forte background em hardware, montagem e manutenção de PCs, o que me ajuda a ter uma visão completa, da máquina até a arquitetura do código.
 - 🐧 Usuário entusiasta de Linux no dia a dia.
